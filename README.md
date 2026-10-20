@@ -4,7 +4,7 @@
 
 ### Free, open-source SEO tools. One job per repo.
 
-**0 of 64 tools live** · new tools added every day
+**6 of 64 tools live** · new tools added every day
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meer%20Hamza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meerhamza-seo)
 
@@ -20,12 +20,12 @@ Start here: **[seo-workhorse](https://github.com/marketing-MEER/seo-workhorse)**
 
 | Tool | What it does | Status |
 |---|---|---|
-| serp-competitor-finder | Find your true SERP competitors and their share of voice from a ranking export | 🔜 coming |
-| keyword-gap-analyzer | Missing, weak, shared and untapped keywords vs competitors, scored by revenue potential | 🔜 coming |
-| content-gap-crawler | Crawl competitor sitemaps, group their pages into topics and show topics you don't cover | 🔜 coming |
-| competitor-onpage-benchmark | Compare your page with top competitor pages: length, headings, schema, media, links | 🔜 coming |
-| backlink-gap-finder | Domains linking to competitors but not to you, ranked by how many competitors they link to | 🔜 coming |
-| competitor-tech-stack-audit | Side-by-side technical profile: CMS, schema types, hreflang, robots.txt, llms.txt, AI-crawler rules, speed | 🔜 coming |
+| [serp-competitor-finder](https://github.com/marketing-MEER/serp-competitor-finder) | Find your true SERP competitors and their share of voice from a ranking export | ✅ live |
+| [keyword-gap-analyzer](https://github.com/marketing-MEER/keyword-gap-analyzer) | Missing, weak, shared and untapped keywords vs competitors, scored by revenue potential | ✅ live |
+| [content-gap-crawler](https://github.com/marketing-MEER/content-gap-crawler) | Crawl competitor sitemaps, group their pages into topics and show topics you don't cover | ✅ live |
+| [competitor-onpage-benchmark](https://github.com/marketing-MEER/competitor-onpage-benchmark) | Compare your page with top competitor pages: length, headings, schema, media, links | ✅ live |
+| [backlink-gap-finder](https://github.com/marketing-MEER/backlink-gap-finder) | Domains linking to competitors but not to you, ranked by how many competitors they link to | ✅ live |
+| [competitor-tech-stack-audit](https://github.com/marketing-MEER/competitor-tech-stack-audit) | Side-by-side technical profile: CMS, schema types, hreflang, robots.txt, llms.txt, AI-crawler rules, speed | ✅ live |
 | content-velocity-tracker | Competitor publishing and update rhythm from sitemap lastmod snapshots | 🔜 coming |
 | serp-feature-ownership | Who owns featured snippets, PAA, video and other SERP features for your keywords | 🔜 coming |
 | competitor-page-type-mix | Which page types (blog, product, category, tool, guide) bring competitors their traffic | 🔜 coming |
