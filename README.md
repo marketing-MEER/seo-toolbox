@@ -4,7 +4,7 @@
 
 ### Free, open-source SEO tools. One job per repo.
 
-**6 of 64 tools live** · new tools added every day
+**11 of 64 tools live** · new tools added every day
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meer%20Hamza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meerhamza-seo)
 
@@ -26,16 +26,16 @@ Start here: **[seo-workhorse](https://github.com/marketing-MEER/seo-workhorse)**
 | [competitor-onpage-benchmark](https://github.com/marketing-MEER/competitor-onpage-benchmark) | Compare your page with top competitor pages: length, headings, schema, media, links | ✅ live |
 | [backlink-gap-finder](https://github.com/marketing-MEER/backlink-gap-finder) | Domains linking to competitors but not to you, ranked by how many competitors they link to | ✅ live |
 | [competitor-tech-stack-audit](https://github.com/marketing-MEER/competitor-tech-stack-audit) | Side-by-side technical profile: CMS, schema types, hreflang, robots.txt, llms.txt, AI-crawler rules, speed | ✅ live |
-| content-velocity-tracker | Competitor publishing and update rhythm from sitemap lastmod snapshots | 🔜 coming |
-| serp-feature-ownership | Who owns featured snippets, PAA, video and other SERP features for your keywords | 🔜 coming |
-| competitor-page-type-mix | Which page types (blog, product, category, tool, guide) bring competitors their traffic | 🔜 coming |
-| brand-vs-nonbrand-share | Branded vs non-branded traffic split for you and competitors | 🔜 coming |
+| [content-velocity-tracker](https://github.com/marketing-MEER/content-velocity-tracker) | Competitor publishing and update rhythm from sitemap lastmod snapshots | ✅ live |
+| [serp-feature-ownership](https://github.com/marketing-MEER/serp-feature-ownership) | Who owns featured snippets, PAA, video and other SERP features for your keywords | ✅ live |
+| [competitor-page-type-mix](https://github.com/marketing-MEER/competitor-page-type-mix) | Which page types (blog, product, category, tool, guide) bring competitors their traffic | ✅ live |
+| [brand-vs-nonbrand-share](https://github.com/marketing-MEER/brand-vs-nonbrand-share) | Branded vs non-branded traffic split for you and competitors | ✅ live |
 
 ## Keyword strategy
 
 | Tool | What it does | Status |
 |---|---|---|
-| keyword-intent-classifier | Tag keywords as informational, commercial, transactional, navigational or local | 🔜 coming |
+| [keyword-intent-classifier](https://github.com/marketing-MEER/keyword-intent-classifier) | Tag keywords as informational, commercial, transactional, navigational or local | ✅ live |
 | long-tail-revenue-scorer | Score keywords by revenue potential using keyword length and intent | 🔜 coming |
 | keyword-cannibalization-detector | Find queries where several of your pages compete, and pick the page to keep | 🔜 coming |
 | keyword-mapper | Assign one owner URL per keyword and flag conflicts | 🔜 coming |
