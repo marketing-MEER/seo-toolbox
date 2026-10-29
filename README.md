@@ -4,7 +4,7 @@
 
 ### Free, open-source SEO tools. One job per repo.
 
-**11 of 64 tools live** · new tools added every day
+**16 of 64 tools live** · new tools added every day
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meer%20Hamza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meerhamza-seo)
 
@@ -36,11 +36,11 @@ Start here: **[seo-workhorse](https://github.com/marketing-MEER/seo-workhorse)**
 | Tool | What it does | Status |
 |---|---|---|
 | [keyword-intent-classifier](https://github.com/marketing-MEER/keyword-intent-classifier) | Tag keywords as informational, commercial, transactional, navigational or local | ✅ live |
-| long-tail-revenue-scorer | Score keywords by revenue potential using keyword length and intent | 🔜 coming |
-| keyword-cannibalization-detector | Find queries where several of your pages compete, and pick the page to keep | 🔜 coming |
-| keyword-mapper | Assign one owner URL per keyword and flag conflicts | 🔜 coming |
-| question-keyword-miner | Collect question keywords from GSC and free Google autocomplete | 🔜 coming |
-| topic-cluster-planner | Turn a keyword list into pillar + spoke pages with an internal link plan | 🔜 coming |
+| [long-tail-revenue-scorer](https://github.com/marketing-MEER/long-tail-revenue-scorer) | Score keywords by revenue potential using keyword length and intent | ✅ live |
+| [keyword-cannibalization-detector](https://github.com/marketing-MEER/keyword-cannibalization-detector) | Find queries where several of your pages compete, and pick the page to keep | ✅ live |
+| [keyword-mapper](https://github.com/marketing-MEER/keyword-mapper) | Assign one owner URL per keyword and flag conflicts | ✅ live |
+| [question-keyword-miner](https://github.com/marketing-MEER/question-keyword-miner) | Collect question keywords from GSC and free Google autocomplete | ✅ live |
+| [topic-cluster-planner](https://github.com/marketing-MEER/topic-cluster-planner) | Turn a keyword list into pillar + spoke pages with an internal link plan | ✅ live |
 | bofu-keyword-finder | Find bottom-of-funnel keywords most likely to turn into leads and sales | 🔜 coming |
 | seasonal-keyword-trends | Detect seasonal queries and the best month to publish or refresh | 🔜 coming |
 
