@@ -4,7 +4,7 @@
 
 ### Free, open-source SEO tools. One job per repo.
 
-**16 of 64 tools live** · new tools added every day
+**26 of 64 tools live** · new tools added every day
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meer%20Hamza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meerhamza-seo)
 
@@ -41,21 +41,21 @@ Start here: **[seo-workhorse](https://github.com/marketing-MEER/seo-workhorse)**
 | [keyword-mapper](https://github.com/marketing-MEER/keyword-mapper) | Assign one owner URL per keyword and flag conflicts | ✅ live |
 | [question-keyword-miner](https://github.com/marketing-MEER/question-keyword-miner) | Collect question keywords from GSC and free Google autocomplete | ✅ live |
 | [topic-cluster-planner](https://github.com/marketing-MEER/topic-cluster-planner) | Turn a keyword list into pillar + spoke pages with an internal link plan | ✅ live |
-| bofu-keyword-finder | Find bottom-of-funnel keywords most likely to turn into leads and sales | 🔜 coming |
-| seasonal-keyword-trends | Detect seasonal queries and the best month to publish or refresh | 🔜 coming |
+| [bofu-keyword-finder](https://github.com/marketing-MEER/bofu-keyword-finder) | Find bottom-of-funnel keywords most likely to turn into leads and sales | ✅ live |
+| [seasonal-keyword-trends](https://github.com/marketing-MEER/seasonal-keyword-trends) | Detect seasonal queries and the best month to publish or refresh | ✅ live |
 
 ## Technical SEO
 
 | Tool | What it does | Status |
 |---|---|---|
-| robots-sitemap-validator | Validate robots.txt and XML sitemaps: blocked URLs, non-200s, noindex in sitemap | 🔜 coming |
-| redirect-chain-fixer | Find redirect chains and loops and output the direct-redirect rules | 🔜 coming |
-| hreflang-validator | Check hreflang return links, codes, x-default and canonical conflicts | 🔜 coming |
-| schema-markup-checker | Extract JSON-LD/microdata and flag missing required properties | 🔜 coming |
-| core-web-vitals-monitor | Core Web Vitals per page from the free PageSpeed API (key optional) | 🔜 coming |
-| internal-link-analyzer | Orphan pages, click depth and internal link equity | 🔜 coming |
-| log-file-analyzer | How Googlebot and AI bots spend crawl budget, from server logs | 🔜 coming |
-| near-duplicate-finder | Find near-duplicate pages with text shingling | 🔜 coming |
+| [robots-sitemap-validator](https://github.com/marketing-MEER/robots-sitemap-validator) | Validate robots.txt and XML sitemaps: blocked URLs, non-200s, noindex in sitemap | ✅ live |
+| [redirect-chain-fixer](https://github.com/marketing-MEER/redirect-chain-fixer) | Find redirect chains and loops and output the direct-redirect rules | ✅ live |
+| [hreflang-validator](https://github.com/marketing-MEER/hreflang-validator) | Check hreflang return links, codes, x-default and canonical conflicts | ✅ live |
+| [schema-markup-checker](https://github.com/marketing-MEER/schema-markup-checker) | Extract JSON-LD/microdata and flag missing required properties | ✅ live |
+| [core-web-vitals-monitor](https://github.com/marketing-MEER/core-web-vitals-monitor) | Core Web Vitals per page from the free PageSpeed API (key optional) | ✅ live |
+| [internal-link-analyzer](https://github.com/marketing-MEER/internal-link-analyzer) | Orphan pages, click depth and internal link equity | ✅ live |
+| [log-file-analyzer](https://github.com/marketing-MEER/log-file-analyzer) | How Googlebot and AI bots spend crawl budget, from server logs | ✅ live |
+| [near-duplicate-finder](https://github.com/marketing-MEER/near-duplicate-finder) | Find near-duplicate pages with text shingling | ✅ live |
 | image-seo-auditor | Missing alt, oversized images, missing dimensions, non-modern formats | 🔜 coming |
 | index-coverage-analyzer | Make sense of GSC page-indexing exports and prioritise fixes | 🔜 coming |
 | site-migration-diff | Compare crawls before and after a migration and flag what broke | 🔜 coming |
