@@ -4,7 +4,7 @@
 
 ### Free, open-source SEO tools. One job per repo.
 
-**26 of 64 tools live** · new tools added every day
+**32 of 64 tools live** · new tools added every day
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meer%20Hamza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meerhamza-seo)
 
@@ -56,17 +56,17 @@ Start here: **[seo-workhorse](https://github.com/marketing-MEER/seo-workhorse)**
 | [internal-link-analyzer](https://github.com/marketing-MEER/internal-link-analyzer) | Orphan pages, click depth and internal link equity | ✅ live |
 | [log-file-analyzer](https://github.com/marketing-MEER/log-file-analyzer) | How Googlebot and AI bots spend crawl budget, from server logs | ✅ live |
 | [near-duplicate-finder](https://github.com/marketing-MEER/near-duplicate-finder) | Find near-duplicate pages with text shingling | ✅ live |
-| image-seo-auditor | Missing alt, oversized images, missing dimensions, non-modern formats | 🔜 coming |
-| index-coverage-analyzer | Make sense of GSC page-indexing exports and prioritise fixes | 🔜 coming |
-| site-migration-diff | Compare crawls before and after a migration and flag what broke | 🔜 coming |
+| [image-seo-auditor](https://github.com/marketing-MEER/image-seo-auditor) | Missing alt, oversized images, missing dimensions, non-modern formats | ✅ live |
+| [index-coverage-analyzer](https://github.com/marketing-MEER/index-coverage-analyzer) | Make sense of GSC page-indexing exports and prioritise fixes | ✅ live |
+| [site-migration-diff](https://github.com/marketing-MEER/site-migration-diff) | Compare crawls before and after a migration and flag what broke | ✅ live |
 
 ## Content
 
 | Tool | What it does | Status |
 |---|---|---|
-| content-decay-detector | Find pages losing clicks and rank over time, and why | 🔜 coming |
-| content-refresh-prioritizer | Rank pages to refresh by age, traffic and opportunity | 🔜 coming |
-| eeat-signal-checker | Check pages for author, credentials, sources, dates, contact and trust signals | 🔜 coming |
+| [content-decay-detector](https://github.com/marketing-MEER/content-decay-detector) | Find pages losing clicks and rank over time, and why | ✅ live |
+| [content-refresh-prioritizer](https://github.com/marketing-MEER/content-refresh-prioritizer) | Rank pages to refresh by age, traffic and opportunity | ✅ live |
+| [eeat-signal-checker](https://github.com/marketing-MEER/eeat-signal-checker) | Check pages for author, credentials, sources, dates, contact and trust signals | ✅ live |
 | serp-brief-builder | Build a content brief from the headings of top-ranking pages | 🔜 coming |
 | thin-content-consolidator | Find thin, overlapping pages and suggest merges with redirects | 🔜 coming |
 | readability-scorer | Readability, sentence length and passive voice per page | 🔜 coming |
